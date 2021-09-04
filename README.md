@@ -1,4 +1,4 @@
-### Hi, I'm Julián Carlosama <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Julián Carlosama <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 [<img align="left" alt="juliancarlosama-722879169 | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
@@ -7,15 +7,13 @@
 
 <br>
 <br>
-### **I'm a developer in progress!
+### **I'm a developer in progress!**
 I am currently studying software engineering at holberton school, systems engineering student at the National University of Colombia.
 
 My dream to be a software developer and build great things, I have seen Java, C, and now Python, I am interested in the area of electronics and somemechanics, in my free time I do experiments, as well as cycling to fantastic places outside of the city.
 
 I like everything related to renewable energies and the consacion of the environment, I love to know new places, I love swimming and cycling.
 
-<br>
-<br>
 #### Languages:
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -25,7 +23,8 @@ I like everything related to renewable energies and the consacion of the environ
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 
-<br>
+#### Contact me:
+
 [linkedin]: https://www.linkedin.com/in/juliancarlosama-722879169/
-[twitter]: https://twitter.com/JulianCarlosam3
+[twitter]: https://twitter.com/JulianCarlosam3/
 [gmail]: mailto:cromocelcarlosama@gmail.com
