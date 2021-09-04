@@ -5,9 +5,9 @@
 [<img align="left" alt="JulianCarlosam3 | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="cromocelcarlosama | Gmail" width="22px" src="./gmail.svg" />][gmail]
 
-<br>
-<br>
+
 ### **I'm a developer in progress!**
+
 I am currently studying software engineering at holberton school, systems engineering student at the National University of Colombia.
 
 My dream to be a software developer and build great things, I have seen Java, C, and now Python, I am interested in the area of electronics and somemechanics, in my free time I do experiments, as well as cycling to fantastic places outside of the city.
@@ -23,7 +23,7 @@ I like everything related to renewable energies and the consacion of the environ
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 
-#### Contact me:
+
 
 [linkedin]: https://www.linkedin.com/in/juliancarlosama-722879169/
 [twitter]: https://twitter.com/JulianCarlosam3/
