@@ -5,14 +5,14 @@
 [<img align="left" alt="JulianCarlosam3 | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="cromocelcarlosama | Gmail" width="22px" src="./gmail.svg" />][gmail]
 
-
+<br>
 ### **I'm a developer in progress!**
 
 I am currently studying software engineering at holberton school, systems engineering student at the National University of Colombia.
 
 My dream to be a software developer and build great things, I have seen Java, C, and now Python, I am interested in the area of electronics and somemechanics, in my free time I do experiments, as well as cycling to fantastic places outside of the city.
 
-I like everything related to renewable energies and the consacion of the environment, I love to know new places, I love swimming and cycling.
+I like everything related to renewable energies and the consacion of the environment, I love to know new places, I love swimming and ride a bike.
 
 #### Languages:
 
