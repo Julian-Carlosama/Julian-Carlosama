@@ -1,13 +1,13 @@
 ### Hi, I'm Julián Carlosama <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-[<img align="left" alt="JulianC | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="julian | Twitter" width="22px" src="./twitter.svg" />][twitter]
-[<img align="left" alt="cromocel | Gmail" width="22px" src="./gmail.svg" />][gmail]
+[<img align="left" alt="juliancarlosama-722879169 | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="JulianCarlosam3 | Twitter" width="22px" src="./twitter.svg" />][twitter]
+[<img align="left" alt="cromocelcarlosama | Gmail" width="22px" src="./gmail.svg" />][gmail]
 
 <br>
 <br>
-### I'm a developer in progress!
+### **I'm a developer in progress!
 I am currently studying software engineering at holberton school, systems engineering student at the National University of Colombia.
 
 My dream to be a software developer and build great things, I have seen Java, C, and now Python, I am interested in the area of electronics and somemechanics, in my free time I do experiments, as well as cycling to fantastic places outside of the city.
