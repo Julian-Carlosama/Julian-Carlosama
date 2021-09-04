@@ -6,6 +6,9 @@
 [<img align="left" alt="cromocelcarlosama | Gmail" width="22px" src="./gmail.svg" />][gmail]
 
 <br>
+<br>
+
+
 ### **I'm a developer in progress!**
 
 I am currently studying software engineering at holberton school, systems engineering student at the National University of Colombia.
