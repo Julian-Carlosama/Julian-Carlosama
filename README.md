@@ -1,7 +1,7 @@
 ### Hi, I'm Julián Carlosama <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-[<img align="left" alt="JulianC | LinkedIn" width="22px" src="<div>Iconos diseñados por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a></div>" />][linkedin]
+[<img align="left" alt="JulianC | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="julian | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="cromocel | Gmail" width="22px" src="./gmail.svg" />][gmail]
 
