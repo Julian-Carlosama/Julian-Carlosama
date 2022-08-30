@@ -8,6 +8,9 @@
 <br>
 <br>
 
+![spaceastro](https://user-images.githubusercontent.com/67349003/187340632-aba44a80-21dd-4440-a5f8-5b7a0dd18b3f.gif)
+
+
 
 ### **I'm a software developer Jr.**
 
