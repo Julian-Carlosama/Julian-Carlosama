@@ -9,7 +9,7 @@
 <br>
 
 
-### **I'm a developer in progress!**
+### **I'm a software developer Jr**
 
 I am currently studying software engineering at holberton school, systems engineering student at the National University of Colombia.
 
