@@ -21,6 +21,7 @@ I use technologies like: Java, Javascript, Flutter, C, Python and now Arduino.
 
 I love to know new places, swimming and ride a bike.
 
+<br>
 
 #### Languages:
 
