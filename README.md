@@ -8,7 +8,8 @@
 <br>
 <br>
 
-![spaceastro](https://user-images.githubusercontent.com/67349003/187340632-aba44a80-21dd-4440-a5f8-5b7a0dd18b3f.gif)
+
+![saludo astronaut](https://user-images.githubusercontent.com/67349003/187345041-66750d19-881b-4ec6-8449-7a86a5b04a0d.gif)
 
 
 
