@@ -9,10 +9,8 @@
 <br>
 
 <p align="center">
-  <img width="460" height="300" src="Astronaut.gif" alt="animated">
+  <img width="560" height="300" src="Astronaut.gif" alt="animated">
 </p>
-
-![saludo astronaut](https://user-images.githubusercontent.com/67349003/187345041-66750d19-881b-4ec6-8449-7a86a5b04a0d.gif)
 
 
 
