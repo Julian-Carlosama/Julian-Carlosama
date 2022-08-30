@@ -9,17 +9,22 @@
 <br>
 
 
-### **I'm a software developer Jr**
+### **I'm a software developer Jr.**
 
-I am currently studying software engineering at holberton school, systems engineering student at the National University of Colombia.
+I am currently studying software engineering at Holberton school, systems engineering student at the National University of Colombia.
 
-My dream to be a software developer and build great things, I have seen Java, C, and now Python, I am interested in the area of electronics and somemechanics, in my free time I do experiments, as well as cycling to fantastic places outside of the city.
+I am curious about electronics and mechanics, and in my free time I usually do experiments. "This amuses me";
+I also love the initiative of migrating towards renewable energies, and the sooner the better, I hope that with my knowledge and experience I can contribute towards a better development of these technologies.
 
-I like everything related to renewable energies and the consacion of the environment, I love to know new places, I love swimming and ride a bike.
+I dream of developing a company that leaves an important mark on our society.
+I use technologies like: Java, Javascript, Flutter, C, Python and now Arduino.
+
+I love to know new places, swimming and ride a bike.
 
 #### Languages:
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Javascript]([https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E))&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
