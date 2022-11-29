@@ -14,7 +14,7 @@
 
 
 
-### **I'm a software developer Jr.**
+### **I'm a software developer.**
 
 I am currently studying software engineering at Holberton school, systems engineering student at the National University of Colombia.
 
@@ -22,9 +22,7 @@ I am curious about electronics and mechanics, and in my free time I usually do e
 I also love the initiative of migrating towards renewable energies, and the sooner the better, I hope that with my knowledge and experience I can contribute towards a better development of these technologies.
 
 I dream of developing a company that leaves an important mark on our society.
-I use technologies like: Java, Javascript, Flutter, C, Python and now Arduino.
-
-I love to know new places, swimming and ride a bike.
+I use technologies like: Java, Javascript, Flutter, C, Python and now React.
 
 <br>
 
